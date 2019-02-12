@@ -47,4 +47,4 @@ def shopping():
 
 
 if __name__ == '__main__':
-    app.run(port=8888)
+    app.run(debug=True)
